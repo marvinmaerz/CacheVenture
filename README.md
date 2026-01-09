@@ -16,5 +16,5 @@ Developed in Godot 4.
 ### Level 2 - simulating the matrix multiplication memory access pattern:
 ![level-2](https://github.com/marvinmaerz/CacheVenture/blob/main/images/showcase/level2.jpg)
 
-### The shop, where players must buy the most efficient upgrades for an access pattern:
+### The shop, to buy the most efficient upgrades for an access pattern:
 ![upgrade-menu](https://github.com/marvinmaerz/CacheVenture/blob/main/images/showcase/upgrade-menu.jpg)
